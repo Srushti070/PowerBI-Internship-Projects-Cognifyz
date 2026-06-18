@@ -15,9 +15,6 @@ Design advanced visualizations and interactive reports to uncover meaningful bus
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-(Add Screenshot Here)
 
 ## Key Insights
 - Identified patterns and trends in the data.
