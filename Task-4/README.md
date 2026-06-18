@@ -15,9 +15,6 @@ Perform KPI analysis and create a dashboard to monitor business performance and 
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-(Add Screenshot Here)
 
 ## Key Insights
 - Monitored key business metrics effectively.
