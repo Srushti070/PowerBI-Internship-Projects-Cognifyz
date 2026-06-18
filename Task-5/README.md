@@ -15,9 +15,6 @@ Create a Business Performance Dashboard to analyze overall business growth, reve
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-(Add Screenshot Here)
 
 ## Key Insights
 - Analyzed overall business performance.
