@@ -15,9 +15,6 @@ Develop an interactive Power BI dashboard to visualize business data and support
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-(Add Screenshot Here)
 
 ## Key Insights
 - Identified key business trends.
