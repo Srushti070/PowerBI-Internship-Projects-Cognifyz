@@ -15,9 +15,6 @@ Develop a comprehensive Power BI dashboard integrating all key metrics, visualiz
 - DAX
 - Power Query
 
-## Dashboard Preview
-
-(Add Screenshot Here)
 
 ## Key Insights
 - Provided a complete overview of business performance.
