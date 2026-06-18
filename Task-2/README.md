@@ -15,10 +15,6 @@ Build data models and establish relationships between tables to create a structu
 - Power Query
 - DAX
 
-## Dashboard Preview
-
-(Add Screenshot Here)
-
 ## Key Insights
 - Improved data connectivity using relationships.
 - Enhanced report performance through proper modeling.
