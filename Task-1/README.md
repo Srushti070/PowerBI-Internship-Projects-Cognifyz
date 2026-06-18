@@ -13,11 +13,7 @@ Analyze the provided dataset and create an interactive Power BI dashboard.
 - Power BI
 - DAX
 - Data Visualization
-
-## Dashboard Preview
-
-(Add Screenshot Here)
-
+- 
 ## Key Insights
 - Insight 1
 - Insight 2
